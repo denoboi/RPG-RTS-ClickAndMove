@@ -10,6 +10,8 @@ public class Mover : MonoBehaviour
 
     NavMeshAgent navMeshAgent;
 
+    Ray ray;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,6 +22,25 @@ public class Mover : MonoBehaviour
     void Update()
     {
         navMeshAgent = GetComponent<NavMeshAgent>();
-        navMeshAgent.destination = target.position;
+        //navMeshAgent.destination = target.position;
+
+        if (Input.GetMouseButton(1))
+        {
+            MoveToCursor();
+        }
+            
+    }
+
+    void MoveToCursor()
+    {
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        RaycastHit hit;
+        bool hasHit = Physics.Raycast(ray, out hit);
+        Debug.DrawRay(ray.origin, ray.direction * 299);
+
+        if (hasHit)
+        {
+            navMeshAgent.destination = hit.point;
+        }
     }
 }
