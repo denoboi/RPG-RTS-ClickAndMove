@@ -306,3 +306,143 @@ System memory in use after: 69.4 MB.
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1600.
 Total: 2.200900 ms (FindLiveObjects: 0.194800 ms CreateObjectMapping: 0.058300 ms MarkObjects: 1.930300 ms  DeleteObjects: 0.016000 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1122.675413 seconds.
+  path: Assets/[Game]/Scripts/Combat
+  artifactKey: Guid(deb798b2891398541a47b9b88fca3542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Game]/Scripts/Combat using Guid(deb798b2891398541a47b9b88fca3542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4aacd1e020a06eec5f2b2fdd92a73d') in 0.013873 seconds
+  Import took 0.017860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.746156 seconds.
+  path: Assets/[Game]/Scripts/Combat/Fighter.cs
+  artifactKey: Guid(67dad9fb50d8d2347815f9b42bdc55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Game]/Scripts/Combat/Fighter.cs using Guid(67dad9fb50d8d2347815f9b42bdc55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b5431c0581d9a874241026732f9063') in 0.012020 seconds
+  Import took 0.014686 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001548 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.327 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.3 MB.
+System memory in use after: 69.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1604.
+Total: 3.442100 ms (FindLiveObjects: 0.228000 ms CreateObjectMapping: 0.070900 ms MarkObjects: 3.125000 ms  DeleteObjects: 0.016900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 431.732560 seconds.
+  path: Assets/[Game]/Scripts/Combat/Fighter.cs
+  artifactKey: Guid(67dad9fb50d8d2347815f9b42bdc55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Game]/Scripts/Combat/Fighter.cs using Guid(67dad9fb50d8d2347815f9b42bdc55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c1d08aea86e014b232a0ef8404f4b95') in 0.006602 seconds
+  Import took 0.009416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.081432 seconds.
+  path: Assets/[Game]/Enemy.prefab
+  artifactKey: Guid(1978479cf22c18646adbce2926e96b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Game]/Enemy.prefab using Guid(1978479cf22c18646adbce2926e96b91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f778c62b34f16a23ebd8d76c5103c26') in 0.170887 seconds
+  Import took 0.173596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.628150 seconds.
+  path: Assets/[Game]/Prefabs/Enemy.prefab
+  artifactKey: Guid(2bb2a14ab2b6b064db76687ccd2dec8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Game]/Prefabs/Enemy.prefab using Guid(2bb2a14ab2b6b064db76687ccd2dec8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb1551dcb9d645a419f8890f6148f01') in 0.036728 seconds
+  Import took 0.041109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003568 seconds.
+  path: Assets/[Game]/Prefabs/Enemy.prefab
+  artifactKey: Guid(2bb2a14ab2b6b064db76687ccd2dec8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Game]/Prefabs/Enemy.prefab using Guid(2bb2a14ab2b6b064db76687ccd2dec8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb1551dcb9d645a419f8890f6148f01') in 0.013239 seconds
+  Import took 0.016249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.814985 seconds.
+  path: Assets/[Game]/Enemy 1.prefab
+  artifactKey: Guid(06ff331f44df5d340867714bfd924fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Game]/Enemy 1.prefab using Guid(06ff331f44df5d340867714bfd924fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313d531b8877b97c0595bbb1917160f3') in 0.035851 seconds
+  Import took 0.039182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005316 seconds.
+  path: Assets/[Game]/Enemy 1.prefab
+  artifactKey: Guid(06ff331f44df5d340867714bfd924fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Game]/Enemy 1.prefab using Guid(06ff331f44df5d340867714bfd924fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313d531b8877b97c0595bbb1917160f3') in 0.011799 seconds
+  Import took 0.014037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.529015 seconds.
+  path: Assets/[Game]/Prefabs/Enemy 1.prefab
+  artifactKey: Guid(2c0a308b9e3fc94489f5eefcabcf2c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Game]/Prefabs/Enemy 1.prefab using Guid(2c0a308b9e3fc94489f5eefcabcf2c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bdc4ba279512032572e4086b28c7cb') in 0.036465 seconds
+  Import took 0.040006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003419 seconds.
+  path: Assets/[Game]/Prefabs/Enemy 1.prefab
+  artifactKey: Guid(2c0a308b9e3fc94489f5eefcabcf2c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/[Game]/Prefabs/Enemy 1.prefab using Guid(2c0a308b9e3fc94489f5eefcabcf2c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3bdc4ba279512032572e4086b28c7cb') in 0.014325 seconds
+  Import took 0.016678 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002970 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.425 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1615.
+Total: 2.134900 ms (FindLiveObjects: 0.174000 ms CreateObjectMapping: 0.041400 ms MarkObjects: 1.894000 ms  DeleteObjects: 0.023600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001328 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.531 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1114 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.5 MB.
+System memory in use after: 72.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 2.299400 ms (FindLiveObjects: 0.243100 ms CreateObjectMapping: 0.059100 ms MarkObjects: 1.975500 ms  DeleteObjects: 0.020000 ms)
+

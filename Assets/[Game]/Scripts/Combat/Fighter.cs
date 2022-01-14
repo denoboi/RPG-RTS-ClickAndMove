@@ -1,21 +1,14 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace Assets._Game_.Scripts.Combat
+namespace RPG.Combat
 {
     public class Fighter : MonoBehaviour
     {
-
-        // Use this for initialization
-        void Start()
+        public void Attack()
         {
-
+            print("Take that you short, squat peasant");
         }
-
-        // Update is called once per frame
-        void Update()
-        {
-
-        }
+      
     }
 }
