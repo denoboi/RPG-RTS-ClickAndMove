@@ -3044,6 +3044,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 7290807928815527995, guid: 671334bc5c0e8a146a0b3af88f3f0a39, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7290807928870771646, guid: 671334bc5c0e8a146a0b3af88f3f0a39, type: 3}
       propertyPath: m_Acceleration
       value: 50
@@ -3058,7 +3062,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7642543869417471106, guid: 671334bc5c0e8a146a0b3af88f3f0a39, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.093
+      value: 1.081
       objectReference: {fileID: 0}
     - target: {fileID: 7642543869417471106, guid: 671334bc5c0e8a146a0b3af88f3f0a39, type: 3}
       propertyPath: m_LocalPosition.z
