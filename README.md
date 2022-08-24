@@ -1,5 +1,5 @@
 # RPG-Core-Combat
-Role-Playing Game
+RTS and RPG click and move mechanics.
 
 
 
